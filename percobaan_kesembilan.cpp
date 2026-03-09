@@ -1,0 +1,1 @@
+bmi = hitungBMI(berat, tinggi);
