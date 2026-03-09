@@ -1,0 +1,1 @@
+inputData(berat, tinggi);
